@@ -144,7 +144,7 @@ ol li {
 
 .preloader .loader .loader-inner {
   position: absolute;
-  border: 4px solid #ff0;
+  border: 4px solid rgb(247, 0, 255);
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -296,7 +296,7 @@ ol li {
   color: #fff;
 }
 .section-title span {
-  color: #ff0;
+  color: rgb(247, 0, 255);
 }
 .btn {
   font-size: 14px;
@@ -333,7 +333,7 @@ ol li {
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
   display: inline-block;
-  background-color: #ff0;
+  background-color: rgb(247, 0, 255);
   position: relative;
   z-index: 1;
 }
@@ -341,16 +341,16 @@ button:focus {
   outline: none !important;
 }
 .btn.btn-secondary {
-  background: #ff0;
-  border-color: #ff0;
+  background: rgb(247, 0, 255);
+  border-color: rgb(247, 0, 255);
   color: #3e3e3e;
 }
 .btn.btn-secondary:hover {
   box-shadow: 1px 5px 12px rgba(0, 0, 0, 0.15);
 }
 .btn-secondary.banner_btn {
-  background: #ff0;
-  border-color: #ff0;
+  background: rgb(247, 0, 255);
+  border-color: rgb(247, 0, 255);
   color: #3e3e3e;
   text-transform: capitalize;
   margin-top: 30px;
@@ -421,7 +421,7 @@ a.back-to-top:focus {
 .navbar-brand p {
   font-size: 32px;
   text-transform: uppercase;
-  color: #ff0;
+  color: rgb(247, 0, 255);
   font-weight: 700;
 }
 .bg-faded {
@@ -460,13 +460,13 @@ a.back-to-top:focus {
 }
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-  color: #ff0 !important;
+  color: rgb(247, 0, 255) !important;
 }
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.open,
 .navbar-light .navbar-nav .open > .nav-link {
-  color: #ff0 !important;
+  color: rgb(247, 0, 255) !important;
 }
 .navbar-light .navbar-toggler {
   border-color: #fff;
@@ -476,8 +476,8 @@ a.back-to-top:focus {
   float: right;
   margin: 14px;
   cursor: pointer;
-  background-color: #ff0;
-  border-color: #ff0;
+  background-color: rgb(247, 0, 255);
+  border-color: rgb(247, 0, 255);
   border-radius: 0;
 }
 .navbar-light .navbar-toggler-icon {
@@ -571,7 +571,7 @@ a.back-to-top:focus {
   color: #fff;
 }
 .banner_content h3 {
-  color: #ff0;
+  color: rgb(247, 0, 255);
   text-transform: uppercase;
   font-size: 25px;
 }
@@ -727,7 +727,7 @@ a.back-to-top:focus {
   color: #fff;
 }
 .services-item:hover .services-content h3 a {
-  color: #ff0;
+  color: rgb(247, 0, 255);
 }
 .services-item .services-content p {
   line-height: 22px;
@@ -756,8 +756,8 @@ a.back-to-top:focus {
   padding-bottom: 30px;
 }
 .controls .active {
-  color: #ff0 !important;
-  border-color: #ff0;
+  color: rgb(247, 0, 255) !important;
+  border-color: white;
   background: transparent;
 }
 .controls .btn {
@@ -791,7 +791,7 @@ a.back-to-top:focus {
   height: 100%;
   left: 0;
   top: 0;
-  background: #ff0;
+  background: rgb(247, 0, 255);
   opacity: 0;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
@@ -879,7 +879,7 @@ Start FunFacts CSS
   margin-bottom: -4px;
   font-size: 45px;
   font-weight: 600;
-  color: #ff0;
+  color: rgb(247, 0, 255);
   font-size: 38px;
 }
 .funfact h3 .odometer {
@@ -919,7 +919,7 @@ Start FunFacts CSS
   margin-bottom: 30px;
 }
 .blog-thumb small {
-  color: #ff0;
+  color: rgb(247, 0, 255);
   font-weight: 500;
   display: block;
 }
@@ -953,7 +953,7 @@ Start FunFacts CSS
   color: #fff;
 }
 .single_blog:hover .blog-thumb h4 {
-  color: #ff0;
+  color: rgb(247, 0, 255);
 }
 .blog-info {
   box-shadow: 0 1px 30px rgba(255, 255, 255, 0.2);
@@ -999,7 +999,7 @@ Start FunFacts CSS
   color: #fff;
   box-shadow: none;
   outline: none;
-  border-color: #ff0;
+  border-color: white;
 }
 .contact-form-area {
   background: transparent;
